@@ -1,0 +1,17 @@
+{
+  "name": "pacmania",
+  "version": "0.0.0",
+  "description": "to check pacman motions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.12.3",
+    "cookie-parser": "^1.3.4",
+    "express": "^4.12.3",
+    "mongodb": "^2.0.28"
+  }
+}
